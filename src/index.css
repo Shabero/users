@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+img {
+  width: 100%;
+}
+
+*{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background-color: #fff4cc;
+}
